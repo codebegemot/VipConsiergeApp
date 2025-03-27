@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "57xPy+RmOr1LHhdgw3QkUP7eyF5t63CDycH+HONagPc=",
+  "Source": "VipConciergeApp.API",
+  "BasePath": "_content/VipConciergeApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VipConciergeApp.API/wwwroot",
+      "Source": "VipConciergeApp.API",
+      "ContentRoot": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/",
+      "BasePath": "_content/VipConciergeApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg",
+      "SourceId": "VipConciergeApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/",
+      "BasePath": "_content/VipConciergeApp.API",
+      "RelativePath": "images/4091701e-d349-49e2-8eec-bf0366a8f124_111#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbjwrypcqe",
+      "Integrity": "MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg"
+    },
+    {
+      "Identity": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg",
+      "SourceId": "VipConciergeApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/",
+      "BasePath": "_content/VipConciergeApp.API",
+      "RelativePath": "images/742419d8-d128-4412-9515-063d5e94e069_222#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dwkmu05fxi",
+      "Integrity": "TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg"
+    },
+    {
+      "Identity": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg",
+      "SourceId": "VipConciergeApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/",
+      "BasePath": "_content/VipConciergeApp.API",
+      "RelativePath": "images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dwkmu05fxi",
+      "Integrity": "TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg"
+    },
+    {
+      "Identity": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg",
+      "SourceId": "VipConciergeApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/",
+      "BasePath": "_content/VipConciergeApp.API",
+      "RelativePath": "images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kbjwrypcqe",
+      "Integrity": "MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/4091701e-d349-49e2-8eec-bf0366a8f124_111.kbjwrypcqe.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbjwrypcqe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/742419d8-d128-4412-9515-063d5e94e069_222.dwkmu05fxi.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dwkmu05fxi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/742419d8-d128-4412-9515-063d5e94e069_222.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc="
+        }
+      ]
+    },
+    {
+      "Route": "images/742419d8-d128-4412-9515-063d5e94e069_222.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:45:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc="
+        }
+      ]
+    },
+    {
+      "Route": "images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.dwkmu05fxi.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:59:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dwkmu05fxi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc="
+        }
+      ]
+    },
+    {
+      "Route": "images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:59:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc="
+        }
+      ]
+    },
+    {
+      "Route": "images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE="
+        }
+      ]
+    },
+    {
+      "Route": "images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.kbjwrypcqe.jpg",
+      "AssetFile": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "97984"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 20:43:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kbjwrypcqe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE="
+        }
+      ]
+    }
+  ]
+}

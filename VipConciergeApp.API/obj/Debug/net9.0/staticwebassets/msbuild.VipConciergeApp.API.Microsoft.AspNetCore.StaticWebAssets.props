@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VipConciergeApp.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VipConciergeApp.API</BasePath>
+      <RelativePath>images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kbjwrypcqe</Fingerprint>
+      <Integrity>MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\742419d8-d128-4412-9515-063d5e94e069_222.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VipConciergeApp.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VipConciergeApp.API</BasePath>
+      <RelativePath>images/742419d8-d128-4412-9515-063d5e94e069_222.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dwkmu05fxi</Fingerprint>
+      <Integrity>TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\742419d8-d128-4412-9515-063d5e94e069_222.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VipConciergeApp.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VipConciergeApp.API</BasePath>
+      <RelativePath>images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dwkmu05fxi</Fingerprint>
+      <Integrity>TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh+Xc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VipConciergeApp.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VipConciergeApp.API</BasePath>
+      <RelativePath>images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kbjwrypcqe</Fingerprint>
+      <Integrity>MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi+SWlE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

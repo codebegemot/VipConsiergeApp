@@ -1,0 +1,52 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97984"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:50:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.kbjwrypcqe.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbjwrypcqe"},{"Name":"integrity","Value":"sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE="},{"Name":"label","Value":"_content/VipConciergeApp.API/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97984"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:50:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/742419d8-d128-4412-9515-063d5e94e069_222.dwkmu05fxi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\742419d8-d128-4412-9515-063d5e94e069_222.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dwkmu05fxi"},{"Name":"integrity","Value":"sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc="},{"Name":"label","Value":"_content/VipConciergeApp.API/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70269"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:45:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\742419d8-d128-4412-9515-063d5e94e069_222.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70269"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:45:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.dwkmu05fxi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dwkmu05fxi"},{"Name":"integrity","Value":"sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc="},{"Name":"label","Value":"_content/VipConciergeApp.API/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"70269"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:59:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"70269"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022TQH7CtqbUVAEtUHaGcTdhjovE01o2MDoFJC3q0vh\u002BXc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:59:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"97984"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:43:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/VipConciergeApp.API/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.kbjwrypcqe.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kbjwrypcqe"},{"Name":"integrity","Value":"sha256-MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE="},{"Name":"label","Value":"_content/VipConciergeApp.API/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"97984"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MIMV9dc/qCWd1PXOmhaagjfI842y8N8C9gROyi\u002BSWlE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Mar 2025 20:43:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

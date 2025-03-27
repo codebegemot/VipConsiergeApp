@@ -1,0 +1,14 @@
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/bin/Debug/net9.0/VipConciergeApp.Domain.deps.json
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/bin/Debug/net9.0/VipConciergeApp.Domain.runtimeconfig.json
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/bin/Debug/net9.0/VipConciergeApp.Domain.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/bin/Debug/net9.0/VipConciergeApp.Domain.pdb
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.csproj.AssemblyReference.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.AssemblyInfoInputs.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.AssemblyInfo.cs
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.csproj.CoreCompileInputs.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/refint/VipConciergeApp.Domain.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.pdb
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/VipConciergeApp.Domain.genruntimeconfig.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/Debug/net9.0/ref/VipConciergeApp.Domain.dll

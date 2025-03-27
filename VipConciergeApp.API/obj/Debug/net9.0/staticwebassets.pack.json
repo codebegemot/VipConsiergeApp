@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg",
+      "PackagePath": "staticwebassets/images/4091701e-d349-49e2-8eec-bf0366a8f124_111.jpg"
+    },
+    {
+      "Id": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg",
+      "PackagePath": "staticwebassets/images/742419d8-d128-4412-9515-063d5e94e069_222.jpg"
+    },
+    {
+      "Id": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg",
+      "PackagePath": "staticwebassets/images/84b84a39-1f53-41dc-a6e5-f75a2ea8025c_222.jpg"
+    },
+    {
+      "Id": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.API/wwwroot/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg",
+      "PackagePath": "staticwebassets/images/bd4e59e2-7dd8-492d-867c-b47f7c5db8fb_74d508bf7c2e0d43893eee56723970a2.jpg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.VipConciergeApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.VipConciergeApp.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.VipConciergeApp.API.props",
+      "PackagePath": "build\\VipConciergeApp.API.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.VipConciergeApp.API.props",
+      "PackagePath": "buildMultiTargeting\\VipConciergeApp.API.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.VipConciergeApp.API.props",
+      "PackagePath": "buildTransitive\\VipConciergeApp.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

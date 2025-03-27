@@ -1,0 +1,17 @@
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/bin/Debug/net9.0/VipConciergeApp.Infrastructure.deps.json
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/bin/Debug/net9.0/VipConciergeApp.Infrastructure.runtimeconfig.json
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/bin/Debug/net9.0/VipConciergeApp.Infrastructure.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/bin/Debug/net9.0/VipConciergeApp.Infrastructure.pdb
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/bin/Debug/net9.0/VipConciergeApp.Domain.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/bin/Debug/net9.0/VipConciergeApp.Domain.pdb
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.AssemblyInfo.cs
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConci.A9DF8A0E.Up2Date
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/refint/VipConciergeApp.Infrastructure.dll
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.pdb
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/VipConciergeApp.Infrastructure.genruntimeconfig.cache
+/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/Debug/net9.0/ref/VipConciergeApp.Infrastructure.dll

@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/VipConciergeApp.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/VipConciergeApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/VipConciergeApp.Domain.csproj",
+        "projectName": "VipConciergeApp.Domain",
+        "projectPath": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/VipConciergeApp.Domain.csproj",
+        "packagesPath": "/Users/dmitriysergeev/.nuget/packages/",
+        "outputPath": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmitriysergeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/VipConciergeApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/VipConciergeApp.Infrastructure.csproj",
+        "projectName": "VipConciergeApp.Infrastructure",
+        "projectPath": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/VipConciergeApp.Infrastructure.csproj",
+        "packagesPath": "/Users/dmitriysergeev/.nuget/packages/",
+        "outputPath": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmitriysergeev/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/VipConciergeApp.Domain.csproj": {
+                "projectPath": "/Users/dmitriysergeev/RiderProjects/VipConciergeApp/VipConciergeApp.Domain/VipConciergeApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
