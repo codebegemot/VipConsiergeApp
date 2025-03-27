@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipConciergeApp.API", "VipConciergeApp.API\VipConciergeApp.API.csproj", "{CCDA28FF-269A-4416-BDE3-FD779A38301A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipConciergeApp.Domain", "VipConciergeApp.Domain\VipConciergeApp.Domain.csproj", "{CAF55604-9695-485F-9371-169E146D6227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VipConciergeApp.Infrastructure", "VipConciergeApp.Infrastructure\VipConciergeApp.Infrastructure.csproj", "{E8A0EBCC-EFE5-436A-9A5D-DE71392773DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDA28FF-269A-4416-BDE3-FD779A38301A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDA28FF-269A-4416-BDE3-FD779A38301A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDA28FF-269A-4416-BDE3-FD779A38301A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDA28FF-269A-4416-BDE3-FD779A38301A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAF55604-9695-485F-9371-169E146D6227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF55604-9695-485F-9371-169E146D6227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF55604-9695-485F-9371-169E146D6227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF55604-9695-485F-9371-169E146D6227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A0EBCC-EFE5-436A-9A5D-DE71392773DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A0EBCC-EFE5-436A-9A5D-DE71392773DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A0EBCC-EFE5-436A-9A5D-DE71392773DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A0EBCC-EFE5-436A-9A5D-DE71392773DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
